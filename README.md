@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MettoxD
-- 👀 I’m interested in coding c# and python.
-- 🌱 I’m currently learning c# and python
-- (ps i am a roblox dev please dont rate me on that).
-- 💞️ I’m looking to collaborate on nothing
+- Python, Lua and C#
+- Used to do World of Warcraft addons
+
+
 - 📫 How to reach me via discord Metto#2418
 
 <!---
